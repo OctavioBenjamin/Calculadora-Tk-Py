@@ -6,7 +6,7 @@ Una pequeña calculadora en la cual se logra realizar las 4 operaciones basicas
 
 - [Descargar Python](https://www.python.org/downloads/)
 - [Tutorial](https://www.youtube.com/watch?v=BNcpRwxH8So)
-- 
+
 ## Correr Codigo
 
 Ir al directorio del projecto
