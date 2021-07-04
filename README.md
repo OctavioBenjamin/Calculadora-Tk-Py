@@ -17,7 +17,7 @@ Ir al directorio del projecto
 Ejecutar simplemente con Py
 
 ```bash
-  py calculadora.py
+  py CalcMain.py
 ```
 
 El proyecto por el momento no es necesario de dependencias
@@ -26,6 +26,6 @@ El proyecto por el momento no es necesario de dependencias
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/OctavioBenjamin/Calculadora-Tk-Py/blob/main/Screenshot_1.jpg)
 
   
