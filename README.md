@@ -18,7 +18,7 @@ Ir al directorio del projecto
 Ejecutar simplemente con Py
 
 ```bash
-  py CalcMain.py
+  python3 CalcMain.py
 ```
 
 El proyecto por el momento no es necesario de dependencias
